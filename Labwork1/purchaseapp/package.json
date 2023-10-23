@@ -2,7 +2,7 @@
     "name": "purchaseapp",
     "version": "1.0.0",
     "description": "First Angular 16 Project",
-    "author": "Your name",
+    "author": "Arsen Neroda",
     "scripts": {
     "ng": "ng",
     "start": "ng serve",
